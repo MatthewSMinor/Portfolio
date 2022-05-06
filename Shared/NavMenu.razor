@@ -7,12 +7,12 @@
 </style>
 
 <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: rgba(0, 0, 0, 1);">
-  <div class="container-fluid">    
+  <form class="container-fluid justify-content-center">    
   <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation" @onclick="ToggleNavMenu">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="@NavMenuCssClass navbar-collapse" id="navbarColor02"  @onclick="ToggleNavMenu">
-      <ul class="navbar-nav me-auto navbar-center">
+      <ul class="navbar-nav me-auto">
         <li class="nav-item">
             <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
                 Home
@@ -20,12 +20,12 @@
         </li>
         <li class="nav-item">
             <NavLink class="nav-link" href="skills">
-                Skills
+                Resume
             </NavLink>
         </li>
       </ul>
     </div>
-  </div>
+  </form>
 </nav>
 
 @code {
