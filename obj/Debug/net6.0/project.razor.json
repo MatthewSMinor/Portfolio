@@ -170,39 +170,6 @@
         }
       },
       {
-        "HashCode": 1247073857,
-        "Kind": "Components.Component",
-        "Name": "Portfolio.Pages.Index",
-        "AssemblyName": "Portfolio",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Portfolio.Pages.Index"
-        }
-      },
-      {
-        "HashCode": 1132015619,
-        "Kind": "Components.Component",
-        "Name": "Portfolio.Pages.Index",
-        "AssemblyName": "Portfolio",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Portfolio.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Portfolio.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 1362820632,
         "Kind": "Components.Component",
         "Name": "Portfolio.Pages.Skills",
@@ -232,6 +199,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "Portfolio.Pages.Skills",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1247073857,
+        "Kind": "Components.Component",
+        "Name": "Portfolio.Pages.Index",
+        "AssemblyName": "Portfolio",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Portfolio.Pages.Index"
+        }
+      },
+      {
+        "HashCode": 1132015619,
+        "Kind": "Components.Component",
+        "Name": "Portfolio.Pages.Index",
+        "AssemblyName": "Portfolio",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Portfolio.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Portfolio.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
