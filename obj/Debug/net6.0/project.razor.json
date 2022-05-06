@@ -203,6 +203,39 @@
         }
       },
       {
+        "HashCode": -2071873224,
+        "Kind": "Components.Component",
+        "Name": "Portfolio.Pages.Contact",
+        "AssemblyName": "Portfolio",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Contact"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Portfolio.Pages.Contact"
+        }
+      },
+      {
+        "HashCode": 310914697,
+        "Kind": "Components.Component",
+        "Name": "Portfolio.Pages.Contact",
+        "AssemblyName": "Portfolio",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Portfolio.Pages.Contact"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Portfolio.Pages.Contact",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 1247073857,
         "Kind": "Components.Component",
         "Name": "Portfolio.Pages.Index",
@@ -13561,6 +13594,11 @@
       "FilePath": "d:\\repos\\Portfolio\\_Imports.razor",
       "TargetPath": "_Imports.razor",
       "FileKind": "componentImport"
+    },
+    {
+      "FilePath": "d:\\repos\\Portfolio\\Pages\\Contact.razor",
+      "TargetPath": "Pages\\Contact.razor",
+      "FileKind": "component"
     },
     {
       "FilePath": "d:\\repos\\Portfolio\\App.razor",
