@@ -1,1 +1,1 @@
-# Check out my portfolio website at https://lively-river-03c768910.1.azurestaticapps.net
+# Check out my portfolio website at http://matthewsminor.com
